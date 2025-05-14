@@ -1,0 +1,22 @@
+.container {
+    padding: 15%;
+}
+
+.row {
+    margin: 0.5rem;
+}
+
+.btn {
+    padding: 0;
+    width: 120%;
+}
+
+.result {
+    height: 50px;
+}
+
+.calculator {
+    padding: 3%;
+    width: 100%;
+    border-radius: 0.5rem;
+}
