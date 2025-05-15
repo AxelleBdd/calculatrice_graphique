@@ -11,8 +11,10 @@
     width: 120%;
 }
 
-.result {
+#result {
     height: 50px;
+    align-items: center;
+    text-align: right;
 }
 
 .calculator {
